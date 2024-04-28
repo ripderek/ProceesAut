@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsappMensajes", "WhatsappMensajes\WhatsappMensajes.csproj", "{7BD88AC4-3669-4D51-BC46-73CA10B67F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD88AC4-3669-4D51-BC46-73CA10B67F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD88AC4-3669-4D51-BC46-73CA10B67F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD88AC4-3669-4D51-BC46-73CA10B67F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD88AC4-3669-4D51-BC46-73CA10B67F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A8AEA82-3FEE-4C67-987C-2823B40873CA}
+	EndGlobalSection
+EndGlobal
